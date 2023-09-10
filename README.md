@@ -3,21 +3,29 @@
 
 ***A list of commonly used Git commands***
 
----
+<br>
+
+<p> 
+
+<img src="https://komarev.com/ghpvc/?username=Git-Commands-Github-Guide&label=Repo%20views&color=0e75b6&style=plastic?" alt="ahmedbadawi" height=25px, width=160px/> 
+
+</p>
+
+<br>
 
 ## Sources to learn Git :
 
-[What is GitHub?](https://youtu.be/pBy1zgt0XPc?si=BUJUk0q9wEVDROEX)
+- [What is GitHub?](https://youtu.be/pBy1zgt0XPc?si=BUJUk0q9wEVDROEX)
 
-[Ghareeb Elshaikh](https://youtu.be/fDkR0TDR9dI?si=HWaXAxboaJJzrcGg)
+- [Ghareeb Elshaikh](https://youtu.be/fDkR0TDR9dI?si=HWaXAxboaJJzrcGg)
 
-[Git and GitHub From ==> بالعربي Big Data](https://youtu.be/Q6G-J54vgKc?si=j2sBM2RzbXEs_rbK)
+- [Git and GitHub From ==> بالعربي Big Data](https://youtu.be/Q6G-J54vgKc?si=j2sBM2RzbXEs_rbK)
 
-[Elzero Web School ==>   Git و Github playlist](https://youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF&si=8RrFWhswwkhCZ1qy)
+- [Elzero Web School ==>   Git و Github playlist](https://youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF&si=8RrFWhswwkhCZ1qy)
 
-[Upload Flutter Project to GitHub from VS Code](https://youtu.be/PiweMDoWhqA?si=zJ35I7EIA1OiRxu2)
+- [Upload Flutter Project to GitHub from VS Code](https://youtu.be/PiweMDoWhqA?si=zJ35I7EIA1OiRxu2)
 
-[How to Upload Flutter Project on Github | Flutter Github Guide](https://youtu.be/DsUwTmSyfYE?si=ByqJiw7x1wcG8G99)
+- [How to Upload Flutter Project on Github | Flutter Github Guide](https://youtu.be/DsUwTmSyfYE?si=ByqJiw7x1wcG8G99)
 
 
 * ## [To Download Git](https://git-scm.com/downloads)
