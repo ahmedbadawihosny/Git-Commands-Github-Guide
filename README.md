@@ -11,8 +11,6 @@
 
 </p>
 
-<br>
-
 ## Sources to learn Git :
 
 - [What is GitHub?](https://youtu.be/pBy1zgt0XPc?si=BUJUk0q9wEVDROEX)
