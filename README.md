@@ -7,11 +7,9 @@
 
 <p> 
 
-<img src="https://komarev.com/ghpvc/?username=Git-Commands-Github-Guide&label=Repo%20views&color=0e75b6&style=plastic?" alt="ahmedbadawi" height=25px, width=160px/> 
+<img src="https://komarev.com/ghpvc/?username=Git-Commands-Github-Guide&label=Repo%20views&color=0e75b6&style=plastic?" alt="ahmedbadawi" height=21px, width=110px/> 
 
 </p>
-
-<br>
 
 ## Sources to learn Git :
 
