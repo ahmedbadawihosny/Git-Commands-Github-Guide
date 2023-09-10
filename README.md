@@ -7,7 +7,9 @@
 
 <p> 
 
-<img src="https://komarev.com/ghpvc/?username=Git-Commands-Github-Guide&label=Repo%20views&color=0e75b6&style=plastic?" alt="ahmedbadawi" height=21px, width=110px/> 
+<img src="https://komarev.com/ghpvc/?username=Git-Commands-Github-Guide&label=Repo%20views&color=0e75b6&style=plastic?" alt="ahmedbadawi" height=22px, width=120px/> 
+
+<img src="https://wakatime.com/badge/github/ahmedbadawihosny/Git-Commands-Github-Guide.svg" alt="ahmedbadawi" height=23px, width=125px/>
 
 </p>
 
