@@ -125,6 +125,5 @@
 
 | Command | Description |
 | ------- | ----------- |
-| `logs/ *.notes pattern*/` | Save a file with desired paterns as .gitignore with either direct string 
-matches or wildcard globs |
+| `logs/ *.notes pattern*/` | Save a file with desired paterns as .gitignore with either direct string  matches or wildcard globs |
 | `git config --global core.excludesfile [file]` | system wide ignore patern for all local repositories |
